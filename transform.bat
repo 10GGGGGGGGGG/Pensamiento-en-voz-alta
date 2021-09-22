@@ -1,0 +1,1 @@
+pyuic5 -x ui/video_player.ui -o ui/video_player_ui.py
