@@ -3,3 +3,6 @@ El tema general de esta práctica es el del protocolo de pensamiento en voz alta
 
 Memoria de documentación del proceso de desarrollo, resultados y manual de usuario:
 https://drive.google.com/file/d/11KwQLz372VIFtSTg6amcl7awwBdzrsai/view?usp=sharing
+
+Vídeo demostración de la aplicación:
+https://youtu.be/bTsADu9jT8s
